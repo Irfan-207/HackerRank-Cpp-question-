@@ -1,0 +1,1 @@
+<h1>Check out this repository. You might find it helpfull if you are practicing C++ on HackerRank platform. I solved some of the problems and continue to solve and store all the solutions in this repository.</h1>
